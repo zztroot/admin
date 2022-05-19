@@ -1,0 +1,30 @@
+{
+  "app_config": {
+    "app_name": "商品管理系统",
+    "host": "0.0.0.0",
+    "port": 8085,
+    "trusted_proxies": [
+      "127.0.0.1"
+    ],
+    "gin_mode": "debug",
+    "database": {
+      "default": {
+        "dialect": "mysql",
+        "host": "127.0.0.1",
+        "port": 3306,
+        "database": "goods",
+        "user": "root",
+        "password": "root",
+        "charset": "utf8mb4",
+        "max_idle_conn_num": 5,
+        "max_open_conn_num": 10
+      }
+    },
+    "redis": {
+      "host": "127.0.0.1",
+      "port": 6379,
+      "password": ""
+    }
+  },
+  "cron_config": []
+}

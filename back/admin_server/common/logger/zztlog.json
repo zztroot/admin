@@ -1,0 +1,19 @@
+{
+  "log_config": {
+    "save_file_name": "log/logger.log",
+    "time_format": "2006/01/02 15:04:05",
+    "max_size_m":1,
+    "max_file_line": 0,
+    "prefix": "[goods_admin]",
+    "file_output": true,
+    "cmd_output": true,
+    "file_all_path_output": true,
+    "colour_output": true,
+    "func_name_output": true,
+    "error_output": true,
+    "fatal_output": true,
+    "warn_output": true,
+    "info_output": true,
+    "debug_output": true
+  }
+}
