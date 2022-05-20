@@ -11,4 +11,6 @@ vue、vite、elementplus、typescript...
 # 后端
 golang、gin、redis、mysql...  
 ### 下载
-下载后，在根目录输入:go run main.go 启动后端服务
+下载后，在根目录输入:go run main.go 启动后端服务  
+# 截图
+![截图_选择区域_20220520102631](https://user-images.githubusercontent.com/46484337/169436910-15d866b9-9ef5-46d5-b0b3-928efb6a4ed1.png)
