@@ -3,3 +3,12 @@
 # 浏览地址
 账号：admin 密码：123456  
 https://admin.zztdd.cn/
+# 前端
+vue、vite、elementplus、typescript...  
+### 下载
+下载后，输入：npm install 安装库  
+输入：npm run dev 启动前端
+# 后端
+golang、gin、redis、mysql...  
+### 下载
+下载后，在根目录输入:go run main.go 启动后端服务
